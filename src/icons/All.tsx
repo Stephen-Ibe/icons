@@ -334,6 +334,7 @@ import StarHalfOutline from './StarHalfOutline';
 import StarHalfSolid from './StarHalfSolid';
 import StarOutline from './StarOutline';
 import StarSolid from './StarSolid';
+import StopOutline from './StopOutline';
 import StopSolid from './StopSolid';
 import SunOutline from './SunOutline';
 import SunSolid from './SunSolid';
@@ -727,6 +728,7 @@ export {
   StarHalfSolid,
   StarOutline,
   StarSolid,
+  StopOutline,
   StopSolid,
   SunOutline,
   SunSolid,
