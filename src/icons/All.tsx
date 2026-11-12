@@ -89,6 +89,7 @@ import CaretSortSolid from './CaretSortSolid';
 import CaretUpSolid from './CaretUpSolid';
 import ChartLineUpOutline from './ChartLineUpOutline';
 import ChartMixedDollarSolid from './ChartMixedDollarSolid';
+import ChartOutline from './ChartOutline';
 import ChartPieOutline from './ChartPieOutline';
 import ChartPieSolid from './ChartPieSolid';
 import CheckCircleOutline from './CheckCircleOutline';
@@ -479,6 +480,7 @@ export {
   CaretUpSolid,
   ChartLineUpOutline,
   ChartMixedDollarSolid,
+  ChartOutline,
   ChartPieOutline,
   ChartPieSolid,
   CheckCircleOutline,
