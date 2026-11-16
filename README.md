@@ -160,7 +160,7 @@ export default Avatar;
 | <img src="./src/raw/camera-photo-outline.svg" width="30" alt="camera-photo-outline"> | [camera-photo-outline](./src/icons/CameraPhotoOutline.tsx) |
 | <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camera-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
 | <img src="./src/raw/caret-down-solid.svg" width="30" alt="caret-down-solid"> | [caret-down-solid](./src/icons/CaretDownSoild.tsx) |
-| <img src="./src/raw/caret-left-solid.svg" width="30" alt="caret-left-solid"> | [caret-left-solid](./src/icons/CaretLeftSoild.tsx) |
+| <img src="./src/raw/caret-left-solid.svg" width="30" alt="caret-left-solid"> | [caret-left-solid](./src/icons/CaretLeftSolid.tsx) |
 | <img src="./src/raw/caret-right-solid.svg" width="30" alt="caret-right-solid"> | [caret-right-solid](./src/icons/CaretRightSoild.tsx) |
 | <img src="./src/raw/caret-sort-outline.svg" width="30" alt="caret-sort-outline"> | [caret-sort-outline](./src/icons/CaretSortOutline.tsx) |
 | <img src="./src/raw/caret-sort-solid.svg" width="30" alt="caret-sort-solid"> | [caret-sort-solid](./src/icons/CaretSortSoild.tsx) |
