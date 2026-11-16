@@ -138,6 +138,7 @@ import CubesStackedOutline from './CubesStackedOutline';
 import DatabaseOutline from './DatabaseOutline';
 import DatabaseSolid from './DatabaseSolid';
 import DesktopPcOutline from './DesktopPcOutline';
+import DesktopPcSolid from './DesktopPcSolid';
 import DeviceMobileOutline from './DeviceMobileOutline';
 import DeviceTabletOutline from './DeviceTabletOutline';
 import DeviceTabletSolid from './DeviceTabletSolid';
@@ -528,6 +529,7 @@ export {
   DatabaseOutline,
   DatabaseSolid,
   DesktopPcOutline,
+  DesktopPcSolid,
   DeviceMobileOutline,
   DeviceTabletOutline,
   DeviceTabletSolid,
