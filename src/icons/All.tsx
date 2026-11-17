@@ -59,6 +59,7 @@ import BookmarkOutline from './BookmarkOutline';
 import BookmarkSolid from './BookmarkSolid';
 import BookOpenOutline from './BookOpenOutline';
 import BookOpenReaderOutline from './BookOpenReaderOutline';
+import BookOpenReaderSolid from './BookOpenReaderSolid';
 import BookOpenSolid from './BookOpenSolid';
 import BookOutline from './BookOutline';
 import BookSolid from './BookSolid';
@@ -453,6 +454,7 @@ export {
   BookmarkSolid,
   BookOpenOutline,
   BookOpenReaderOutline,
+  BookOpenReaderSolid,
   BookOpenSolid,
   BookOutline,
   BookSolid,
