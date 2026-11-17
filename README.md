@@ -411,6 +411,7 @@ export default Avatar;
 | <img src="./src/raw/star-half-solid.svg" width="30" alt="star-half-solid"> | [star-half-solid](./src/icons/StarHalfSolid.tsx) |
 | <img src="./src/raw/star-outline.svg" width="30" alt="star-outline"> | [star-outline](./src/icons/StarOutline.tsx) |
 | <img src="./src/raw/star-solid.svg" width="30" alt="star-solid"> | [star-solid](./src/icons/StarSolid.tsx) |
+| <img src="./src/raw/stop-outline.svg" width="30" alt="stop-outline"> | [stop-outline](./src/icons/StopOutline.tsx) |
 | <img src="./src/raw/stop-solid.svg" width="30" alt="stop-solid"> | [stop-solid](./src/icons/StopSolid.tsx) |
 | <img src="./src/raw/sun-outline.svg" width="30" alt="sun-outline"> | [sun-outline](./src/icons/SunOutline.tsx) |
 | <img src="./src/raw/sun-solid.svg" width="30" alt="sun-solid"> | [sun-solid](./src/icons/SunSolid.tsx) |
