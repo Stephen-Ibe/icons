@@ -42,6 +42,7 @@ import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import AtomOutline from './AtomOutline';
 import AwardOutline from './AwardOutline';
 import AwardSolid from './AwardSolid';
+import BackwardStepSolid from './BackwardStepSolid';
 import BadgeCheckOutline from './BadgeCheckOutline';
 import BadgeCheckSolid from './BadgeCheckSolid';
 import BanOutline from './BanOutline';
@@ -57,6 +58,7 @@ import BitcoinSolid from './BitcoinSolid';
 import BookmarkOutline from './BookmarkOutline';
 import BookmarkSolid from './BookmarkSolid';
 import BookOpenOutline from './BookOpenOutline';
+import BookOpenReaderOutline from './BookOpenReaderOutline';
 import BookOpenReaderSolid from './BookOpenReaderSolid';
 import BookOpenSolid from './BookOpenSolid';
 import BookOutline from './BookOutline';
@@ -82,14 +84,20 @@ import CameraPhoneSolid from './CameraPhoneSolid';
 import CameraPhotoOutline from './CameraPhotoOutline';
 import CameraPhotoSolid from './CameraPhotoSolid';
 import CaretDownSolid from './CaretDownSolid';
+import CaretLeftSolid from './CaretLeftSolid';
+import CaretRightSolid from './CaretRightSolid';
+import CaretSortOutline from './CaretSortOutline';
 import CaretSortSolid from './CaretSortSolid';
+import CaretUpSolid from './CaretUpSolid';
 import ChartLineUpOutline from './ChartLineUpOutline';
 import ChartMixedDollarSolid from './ChartMixedDollarSolid';
+import ChartOutline from './ChartOutline';
 import ChartPieOutline from './ChartPieOutline';
 import ChartPieSolid from './ChartPieSolid';
 import CheckCircleOutline from './CheckCircleOutline';
 import CheckCircleSolid from './CheckCircleSolid';
 import CheckOutline from './CheckOutline';
+import CheckPlusCircleSolid from './CheckPlusCircleSolid';
 import ChevronDoubleDownOutline from './ChevronDoubleDownOutline';
 import ChevronDoubleLeftOutline from './ChevronDoubleLeftOutline';
 import ChevronDoubleRightOutline from './ChevronDoubleRightOutline';
@@ -99,13 +107,18 @@ import ChevronLeftOutline from './ChevronLeftOutline';
 import ChevronRightOutline from './ChevronRightOutline';
 import ChevronSortOutline from './ChevronSortOutline';
 import ChevronUpOutline from './ChevronUpOutline';
+import CircleMinusSolid from './CircleMinusSolid';
 import CirclePlusOutline from './CirclePlusOutline';
+import CirclePlusSolid from './CirclePlusSolid';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardOutline from './ClipboardOutline';
 import ClipboardSolid from './ClipboardSolid';
+import ClockArrowOutline from './ClockArrowOutline';
 import ClockOutline from './ClockOutline';
 import ClockSolid from './ClockSolid';
+import CloseCircleOutline from './CloseCircleOutline';
+import CloseCircleSolid from './CloseCircleSolid';
 import CloseSidebarSolid from './CloseSidebarSolid';
 import CloudArrowUpOutline from './CloudArrowUpOutline';
 import CloudArrowUpSolid from './CloudArrowUpSolid';
@@ -117,13 +130,18 @@ import CodeForkSolid from './CodeForkSolid';
 import CodeMergeOutline from './CodeMergeOutline';
 import CodeMergeSolid from './CodeMergeSolid';
 import CodeOutline from './CodeOutline';
+import CodePullRequestOutline from './CodePullRequestOutline';
+import CodePullRequestSolid from './CodePullRequestSolid';
 import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
 import CreditCardOutline from './CreditCardOutline';
 import CreditCardSolid from './CreditCardSolid';
 import CubeSolid from './CubeSolid';
+import CubesStackedOutline from './CubesStackedOutline';
 import DatabaseOutline from './DatabaseOutline';
 import DatabaseSolid from './DatabaseSolid';
+import DesktopPcOutline from './DesktopPcOutline';
+import DesktopPcSolid from './DesktopPcSolid';
 import DeviceMobileOutline from './DeviceMobileOutline';
 import DeviceTabletOutline from './DeviceTabletOutline';
 import DeviceTabletSolid from './DeviceTabletSolid';
@@ -154,9 +172,11 @@ import EyeSlashOutline from './EyeSlashOutline';
 import EyeSlashSolid from './EyeSlashSolid';
 import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
-import FileChartOutline from './FileChartOutline';
 import FileChartBarOutline from './FileChartBarOutline';
 import FileChartBarSolid from './FileChartBarSolid';
+import FileChartOutline from './FileChartOutline';
+import FileCirclePlusOutline from './FileCirclePlusOutline';
+import FileCirclePlusSolid from './FileCirclePlusSolid';
 import FileCloneOutline from './FileCloneOutline';
 import FileCloneSolid from './FileCloneSolid';
 import FileCodeOutline from './FileCodeOutline';
@@ -165,6 +185,9 @@ import FileCopyOutline from './FileCopyOutline';
 import FileCopySolid from './FileCopySolid';
 import FileCsvOutline from './FileCsvOutline';
 import FileCsvSolid from './FileCsvSolid';
+import FileDocOutline from './FileDocOutline';
+import FileExportOutline from './FileExportOutline';
+import FileExportSolid from './FileExportSolid';
 import FileImageOutline from './FileImageOutline';
 import FileImageSolid from './FileImageSolid';
 import FileImportOutline from './FileImportOutline';
@@ -197,6 +220,7 @@ import FolderSolid from './FolderSolid';
 import FontColorAltSolid from './FontColorAltSolid';
 import ForwardOutline from './ForwardOutline';
 import ForwardSolid from './ForwardSolid';
+import ForwardStepSolid from './ForwardStepSolid';
 import GiftBoxOutline from './GiftBoxOutline';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeOutline from './GlobeOutline';
@@ -208,11 +232,13 @@ import GridOutline from './GridOutline';
 import GridPlusOutline from './GridPlusOutline';
 import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
+import HeadphonesOutline from './HeadphonesOutline';
 import HeadphonesSolid from './HeadphonesSolid';
 import HeartOutline from './HeartOutline';
 import HeartSolid from './HeartSolid';
 import HomeOutline from './HomeOutline';
 import HomeSolid from './HomeSolid';
+import HorizontalLinesOutline from './HorizontalLinesOutline';
 import HourglassOutline from './HourglassOutline';
 import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
@@ -229,6 +255,7 @@ import KeyboardOutline from './KeyboardOutline';
 import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
 import LaptopCodeOutline from './LaptopCodeOutline';
+import LaptopCodeSolid from './LaptopCodeSolid';
 import LayersOutline from './LayersOutline';
 import LayersSolid from './LayersSolid';
 import LetterBoldOutline from './LetterBoldOutline';
@@ -243,6 +270,7 @@ import LockTimeSolid from './LockTimeSolid';
 import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinAltOutline from './MapPinAltOutline';
+import MapPinAltSolid from './MapPinAltSolid';
 import MapPinOutline from './MapPinOutline';
 import MapPinSolid from './MapPinSolid';
 import MessageCaptionOutline from './MessageCaptionOutline';
@@ -250,6 +278,7 @@ import MessageCaptionSolid from './MessageCaptionSolid';
 import MessageDotsOutline from './MessageDotsOutline';
 import MessageDotsSolid from './MessageDotsSolid';
 import MessagesOutline from './MessagesOutline';
+import MessagesSolid from './MessagesSolid';
 import MicrophoneOutline from './MicrophoneOutline';
 import MicrophoneSolid from './MicrophoneSolid';
 import MicroscopeSolid from './MicroscopeSolid';
@@ -259,6 +288,7 @@ import MoonSolid from './MoonSolid';
 import NewspaperOutline from './NewspaperOutline';
 import NewspaperSolid from './NewspaperSolid';
 import OpenSidebarSolid from './OpenSidebarSolid';
+import OutdentSolid from './OutdentSolid';
 import PaletteOutline from './PaletteOutline';
 import PaletteSolid from './PaletteSolid';
 import PaperClipOutline from './PaperClipOutline';
@@ -279,6 +309,8 @@ import QuestionCircleSolid from './QuestionCircleSolid';
 import ReceiptOutline from './ReceiptOutline';
 import ReceiptSolid from './ReceiptSolid';
 import RectangleListOutline from './RectangleListOutline';
+import RectangleListSolid from './RectangleListSolid';
+import ReplyAllSolid from './ReplyAllSolid';
 import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import RocketOutline from './RocketOutline';
@@ -288,6 +320,9 @@ import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
 import ServerOutline from './ServerOutline';
 import ServerSolid from './ServerSolid';
+import ShareAllOutline from './ShareAllOutline';
+import ShareAllSolid from './ShareAllSolid';
+import ShareNodesOutline from './ShareNodesOutline';
 import ShareNodesSolid from './ShareNodesSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
@@ -297,16 +332,20 @@ import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import SortHorizontalOutline from './SortHorizontalOutline';
 import StarHalfOutline from './StarHalfOutline';
+import StarHalfSolid from './StarHalfSolid';
 import StarOutline from './StarOutline';
 import StarSolid from './StarSolid';
+import StopOutline from './StopOutline';
 import StopSolid from './StopSolid';
 import SunOutline from './SunOutline';
 import SunSolid from './SunSolid';
+import TableColumnOutline from './TableColumnOutline';
 import TableColumnSolid from './TableColumnSolid';
 import TableRowSolid from './TableRowSolid';
 import TagOutline from './TagOutline';
 import TagSolid from './TagSolid';
 import TeddyBearOutline from './TeddyBearOutline';
+import TeddyBearSolid from './TeddyBearSolid';
 import TerminalOutline from './TerminalOutline';
 import TerminalSolid from './TerminalSolid';
 import ThumbsDownOutline from './ThumbsDownOutline';
@@ -315,6 +354,7 @@ import ThumbsUpOutline from './ThumbsUpOutline';
 import ThumbsUpSolid from './ThumbsUpSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
+import TrackingOutline from './TrackingOutline';
 import TrackingSolid from './TrackingSolid';
 import TrashBinOutline from './TrashBinOutline';
 import TrashBinSolid from './TrashBinSolid';
@@ -397,6 +437,7 @@ export {
   AtomOutline,
   AwardOutline,
   AwardSolid,
+  BackwardStepSolid,
   BadgeCheckOutline,
   BadgeCheckSolid,
   BanOutline,
@@ -412,6 +453,7 @@ export {
   BookmarkOutline,
   BookmarkSolid,
   BookOpenOutline,
+  BookOpenReaderOutline,
   BookOpenReaderSolid,
   BookOpenSolid,
   BookOutline,
@@ -437,14 +479,20 @@ export {
   CameraPhotoOutline,
   CameraPhotoSolid,
   CaretDownSolid,
+  CaretLeftSolid,
+  CaretRightSolid,
+  CaretSortOutline,
   CaretSortSolid,
+  CaretUpSolid,
   ChartLineUpOutline,
   ChartMixedDollarSolid,
+  ChartOutline,
   ChartPieOutline,
   ChartPieSolid,
   CheckCircleOutline,
   CheckCircleSolid,
   CheckOutline,
+  CheckPlusCircleSolid,
   ChevronDoubleDownOutline,
   ChevronDoubleLeftOutline,
   ChevronDoubleRightOutline,
@@ -454,13 +502,18 @@ export {
   ChevronRightOutline,
   ChevronSortOutline,
   ChevronUpOutline,
+  CircleMinusSolid,
   CirclePlusOutline,
+  CirclePlusSolid,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
   ClipboardOutline,
   ClipboardSolid,
+  ClockArrowOutline,
   ClockOutline,
   ClockSolid,
+  CloseCircleOutline,
+  CloseCircleSolid,
   CloseSidebarSolid,
   CloudArrowUpOutline,
   CloudArrowUpSolid,
@@ -472,13 +525,18 @@ export {
   CodeMergeOutline,
   CodeMergeSolid,
   CodeOutline,
+  CodePullRequestOutline,
+  CodePullRequestSolid,
   CogOutline,
   CogSolid,
   CreditCardOutline,
   CreditCardSolid,
   CubeSolid,
+  CubesStackedOutline,
   DatabaseOutline,
   DatabaseSolid,
+  DesktopPcOutline,
+  DesktopPcSolid,
   DeviceMobileOutline,
   DeviceTabletOutline,
   DeviceTabletSolid,
@@ -509,9 +567,11 @@ export {
   EyeSlashSolid,
   EyeSolid,
   FacebookSolid,
-  FileChartOutline,
   FileChartBarOutline,
   FileChartBarSolid,
+  FileChartOutline,
+  FileCirclePlusOutline,
+  FileCirclePlusSolid,
   FileCloneOutline,
   FileCloneSolid,
   FileCodeOutline,
@@ -520,6 +580,9 @@ export {
   FileCopySolid,
   FileCsvOutline,
   FileCsvSolid,
+  FileDocOutline,
+  FileExportOutline,
+  FileExportSolid,
   FileImageOutline,
   FileImageSolid,
   FileImportOutline,
@@ -552,6 +615,7 @@ export {
   FontColorAltSolid,
   ForwardOutline,
   ForwardSolid,
+  ForwardStepSolid,
   GiftBoxOutline,
   GiftBoxSolid,
   GlobeOutline,
@@ -563,11 +627,13 @@ export {
   GridPlusOutline,
   GridPlusSolid,
   GridSolid,
+  HeadphonesOutline,
   HeadphonesSolid,
   HeartOutline,
   HeartSolid,
   HomeOutline,
   HomeSolid,
+  HorizontalLinesOutline,
   HourglassOutline,
   HourglassSolid,
   ImageOutline,
@@ -584,6 +650,7 @@ export {
   KeyboardSolid,
   LanguageOutline,
   LaptopCodeOutline,
+  LaptopCodeSolid,
   LayersOutline,
   LayersSolid,
   LetterBoldOutline,
@@ -598,6 +665,7 @@ export {
   MailBoxOutline,
   MailBoxSolid,
   MapPinAltOutline,
+  MapPinAltSolid,
   MapPinOutline,
   MapPinSolid,
   MessageCaptionOutline,
@@ -605,6 +673,7 @@ export {
   MessageDotsOutline,
   MessageDotsSolid,
   MessagesOutline,
+  MessagesSolid,
   MicrophoneOutline,
   MicrophoneSolid,
   MicroscopeSolid,
@@ -614,6 +683,7 @@ export {
   NewspaperOutline,
   NewspaperSolid,
   OpenSidebarSolid,
+  OutdentSolid,
   PaletteOutline,
   PaletteSolid,
   PaperClipOutline,
@@ -634,6 +704,8 @@ export {
   ReceiptOutline,
   ReceiptSolid,
   RectangleListOutline,
+  RectangleListSolid,
+  ReplyAllSolid,
   ReplyOutline,
   ReplySolid,
   RocketOutline,
@@ -643,6 +715,9 @@ export {
   SearchSolid,
   ServerOutline,
   ServerSolid,
+  ShareAllOutline,
+  ShareAllSolid,
+  ShareNodesOutline,
   ShareNodesSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
@@ -652,15 +727,19 @@ export {
   ShoppingBagSolid,
   SortHorizontalOutline,
   StarHalfOutline,
+  StarHalfSolid,
   StarOutline,
   StarSolid,
+  StopOutline,
   StopSolid,
   SunOutline,
   SunSolid,
+  TableColumnOutline,
   TableColumnSolid,
   TagOutline,
   TagSolid,
   TeddyBearOutline,
+  TeddyBearSolid,
   TerminalOutline,
   TerminalSolid,
   ThumbsDownOutline,
@@ -670,6 +749,7 @@ export {
   TableRowSolid,
   TicketOutline,
   TicketSolid,
+  TrackingOutline,
   TrackingSolid,
   TrashBinOutline,
   TrashBinSolid,
