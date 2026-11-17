@@ -314,6 +314,7 @@ import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import RocketOutline from './RocketOutline';
 import RocketSolid from './RocketSolid';
+import RulerCombinedOutline from './RulerCombinedOutline';
 import RulerCombinedSolid from './RulerCombinedSolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
@@ -708,6 +709,7 @@ export {
   ReplySolid,
   RocketOutline,
   RocketSolid,
+  RulerCombinedOutline,
   RulerCombinedSolid,
   SearchOutline,
   SearchSolid,
